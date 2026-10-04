@@ -1,0 +1,6 @@
+sample	line	genotype	description
+PSYLMUi002-A_GRIA1dUTR_cl13	PSYLMUi002-A	KO	GRIA1 long 3'UTR deletion, clone 13
+PSYLMUi002-A_parental	PSYLMUi002-A	WT	unedited parental line
+PSYLMUi002-A_GRIA1dUTR_cl15	PSYLMUi002-A	KO	GRIA1 long 3'UTR deletion, clone 15
+MPIPi013-A_scramble	MPIPi013-A	WT	scramble shRNA control of the RBP knockdown experiment
+PSYLMUi002-A_scramble	PSYLMUi002-A	WT	scramble shRNA control of the RBP knockdown experiment (library PSYLMUi002-A_R2_CTRL_1 in resources/rbp_knockdown)

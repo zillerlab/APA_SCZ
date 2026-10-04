@@ -1,0 +1,9 @@
+library	mapped_reads	donor_sex	fraction	replicate
+F_INP_1	1900000	F	input	1
+F_INP_2	704000	F	input	2
+F_IP_1	2316000	F	IP	1
+F_IP_2	2837000	F	IP	2
+M_INP_1	900000	M	input	1
+M_INP_2	857806	M	input	2
+M_IP_1	2885000	M	IP	1
+M_IP_2	3950000	M	IP	2

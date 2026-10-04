@@ -1,0 +1,3 @@
+knockdown	n_dAPA_on_panel	n	rho	p_value
+PTBP2	101	98	-0.239179083067154	0.0176964774563989
+PCBP2	7	5	NA	NA

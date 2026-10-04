@@ -1,0 +1,3 @@
+panel	test	n_genes	n	pearson_r	slope	p_value
+EDFig6i_left	cumulative APA ~ SCZ-PRS (linear model)	154	347	-0.129070410814495	-0.0731181672641992	0.0161410401431066
+EDFig6i_right	SCZ-PRS, SCZ vs Control (Wilcoxon)	NA	323	NA	NA	2.9501014098886e-18

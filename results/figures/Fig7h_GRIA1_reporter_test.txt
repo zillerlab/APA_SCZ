@@ -1,0 +1,2 @@
+model	n_experiments	n_batches	estimate_Short_minus_Long	se	df	t	p_value
+rel_expr_adj ~ utr + (1 | experiment) + (1 | batch)	8	4	0.125602110875	0.04354057634787	10.9999999249769	2.88471401644972	0.0148455636038975

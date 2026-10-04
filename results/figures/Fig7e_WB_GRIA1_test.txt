@@ -1,0 +1,2 @@
+model	n_WT	n_KO	n_replicates	n_batches	log2FC_KO_vs_WT	se	df	t	p_value
+log2(NRI) ~ condition + (1 | batch)	3	6	3	2	-1.7388651362376	0.461212150532572	6.0000000031243	-3.77020669171377	0.00928647366162743

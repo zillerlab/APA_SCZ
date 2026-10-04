@@ -1,0 +1,11 @@
+test	n_1	n_2	median_1	median_2	p_value
+partial R2 beyond diagnosis, RBP targets > non-targets (one-sided Wilcoxon rank-sum)	100	564	0.27319182128418	0.257376434052618	0.169767752260165
+partial R2 beyond diagnosis, PTBP2 knockdown targets > other genes (one-sided Wilcoxon rank-sum)	58	606	0.255862985740193	0.258937148524078	0.3964274111321
+partial R2 beyond diagnosis, PCBP2 knockdown targets > other genes (one-sided Wilcoxon rank-sum)	4	660	0.0878097303843162	0.26166346891284	NA
+partial R2 beyond diagnosis, CPSF6 knockdown targets > other genes (one-sided Wilcoxon rank-sum)	58	606	0.29754986769512	0.254721528072313	0.0134002578139471
+R2 loss when dropped, PTBP2 vs PCBP2 (two-sided paired Wilcoxon)	664	664	0.0217999506763688	0.0191269864785084	0.0203903266104906
+R2 loss when dropped, PTBP2 vs CPSF6 (two-sided paired Wilcoxon)	664	664	0.0217999506763688	0.0146823083472641	0.000109379060608517
+R2 loss when dropped, PCBP2 vs CPSF6 (two-sided paired Wilcoxon)	664	664	0.0191269864785084	0.0146823083472641	0.0270993174823369
+genes with a significant unique contribution of PTBP2 (nested F-test p < 0.05)	290	664	NA	NA	NA
+genes with a significant unique contribution of PCBP2 (nested F-test p < 0.05)	266	664	NA	NA	NA
+genes with a significant unique contribution of CPSF6 (nested F-test p < 0.05)	228	664	NA	NA	NA

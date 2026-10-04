@@ -1,0 +1,2 @@
+model	n_WT	n_KO	n_batches	log2FC_KO_vs_WT	se	df	t	p_value
+log2(expression) ~ genotype + (1 | batch), sample means	3	4	3	1.04704982898749	0.242693213880035	3.00251256488964	4.31429380429671	0.0228976558596042

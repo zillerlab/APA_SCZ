@@ -1,0 +1,4 @@
+panel	test	n	estimate	p_value	n_overlap
+Fig4e	Pearson, beta High vs Low vs beta SCZ vs HC	4259	0.364522757993574	5.36941421272771e-134	NA
+EDFig6h	Fisher, p<=0.05 High vs Low vs q<=0.05 SCZ vs HC	4268	1.62303777075738	1.85860146678844e-05	129
+EDFig6f	linear model, cumulative APA (mean |residual|, High-vs-Low genes q<=0.1) ~ SCZ-PRS	80	0.247245454377706	0.0270305571066173	NA
